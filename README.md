@@ -10,3 +10,5 @@
 ---
 
 * [7  3  5  8  2  9  4  15  6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+<img width="926" alt="Screen Shot 2022-09-22 at 12 58 59" src="https://user-images.githubusercontent.com/98273180/191718435-919c3449-e7dc-4eff-b982-69da615af05d.png">
